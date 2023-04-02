@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
-    --main-color: #d3ad7f;
+    --main-color: #0bb119;
     --black: #13131a;
     --bg: #010103;
     --border: .1rem solid rgba(255,255,255,.3);
@@ -538,7 +538,7 @@ body{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../images/home_img.jpeg) no-repeat;
+    background: url(../images/menu.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
