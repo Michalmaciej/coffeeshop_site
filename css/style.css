@@ -592,7 +592,7 @@ section{
         position: absolute;
         top: 100%;
         right: -100%;
-        background: #fff;
+        background: var(--black);
         width: 30rem;
         height: calc(100vh - 9.5rem);
     }
@@ -602,7 +602,7 @@ section{
     }
 
     .header .navbar a{
-        color: var(--black);
+        color: #fff;
         display: block;
         margin: 1.5rem;
         padding: .5rem;
